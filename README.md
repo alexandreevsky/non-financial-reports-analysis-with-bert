@@ -1,2 +1,2 @@
-# non-financial-reports-analysis-with-bert
-Использование BERT для анализа тональности нефинансовой отчетности российских комипаний
+# Non-financial Reports Sentiment Analysis With BERT
+Использование модели BERT для анализа тональности нефинансовой отчетности российских компаний
